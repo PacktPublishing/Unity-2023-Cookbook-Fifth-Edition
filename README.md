@@ -16,9 +16,39 @@ Chapter 4 - Audio
 Chapter 5 - Textures, Materials & 3D Objects
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch05-textures-materails-3d-objects
 
-Chapter 6
-- (TBC)
+Chapter 6 - 3D Environments & Terrains
+- (coming soon)
 
 Chappter 7 - 2D Animation and Physics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
+
+Chapter 8 - Animated Characters
+- (coming soon)
+
+Chapter 9 - Saving and Loading data
+- (coming soon)
+
+Chapter 10 - Controlling and Choosing Positions
+- (coming soon)
+
+Chapter 11 - Nagivation Meshes and Agents
+- (coming soon)
+
+Chapter 12 - Cameras and Lighting
+- (coming soon)
+
+Chapter 13 - Shader Graphs and Video Players
+- (coming soon)
+
+Chapter 14 - Particle Systems and Other Visual Effects
+- (coming soon)
+
+Chapter 15 - Mobile and Augmented Reality (AR) Games
+- (coming soon)
+
+Chapter 16 - Virtual and Extended Realty (VR/XR)
+- (coming soon)
+
+Chapter 17 - Advanced topics - Gizmos, Testing and more 
+- (coming soon)
 
