@@ -26,7 +26,7 @@ Chapter 8 - Animated Characters
 - (coming soon)
 
 Chapter 9 - Saving and Loading data
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-save-load-data
 
 Chapter 10 - Controlling and Choosing Positions
 - (coming soon)
