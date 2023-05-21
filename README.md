@@ -23,7 +23,7 @@ Chappter 7 - 2D Animation and Physics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
 
 Chapter 8 - Animated Characters
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-animated-characters
 
 Chapter 9 - Saving and Loading data
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-save-load-data
