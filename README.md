@@ -16,8 +16,11 @@ Chapter 4 - Audio
 Chapter 5 - Textures, Materials & 3D Objects
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch05-textures-materails-3d-objects
 
-Chapter 6 - 3D Environments & Terrains
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch06-terrains-and-probuilder
+Chapter 6 - Creating 3D Environments with Terrains
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch06-terrains
+
+Chapter 6b - Creating 3D Geometry with ProBuilder
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b-probuilder
 
 Chappter 7 - 2D Animation and Physics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
