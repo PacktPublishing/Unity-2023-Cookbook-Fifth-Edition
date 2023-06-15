@@ -38,7 +38,7 @@ Chapter 11 - Nagivation Meshes and Agents
 - (coming soon)
 
 Chapter 12 - Cameras and Lighting
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-cameras-and-lighting
 
 Chapter 13 - Shader Graphs and Video Players
 - (coming soon)
