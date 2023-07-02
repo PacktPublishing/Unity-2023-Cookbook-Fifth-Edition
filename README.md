@@ -53,5 +53,5 @@ Chapter 16 - Virtual and Extended Realty (VR/XR)
 - (coming soon)
 
 Chapter 17 - Advanced topics - Gizmos, Testing and more 
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch17-advanced-gizmo-testing-python
 
