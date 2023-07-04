@@ -44,7 +44,7 @@ Chapter 13 - Shader Graphs and Video Players
 - (coming soon)
 
 Chapter 14 - Particle Systems and Other Visual Effects
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-particle-systems
 
 Chapter 15 - Mobile and Augmented Reality (AR) Games
 - (coming soon)
