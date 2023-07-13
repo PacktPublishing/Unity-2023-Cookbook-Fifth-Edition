@@ -50,10 +50,10 @@ Chapter 15 - Mobile Games & Apps
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch15-mobile-games-apps
 
 Chapter 15a - Augmented Reality (AR)
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch15a-augmented-reality
 
 Chapter 16 - Virtual Realty (VR)
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-virtual-reality
 
 Chapter 17 - Advanced topics - Gizmos, Testing and more 
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch17-advanced-gizmo-testing-python
