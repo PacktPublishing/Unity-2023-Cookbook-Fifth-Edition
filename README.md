@@ -56,5 +56,5 @@ Chapter 18 - Virtual and Extended Reality (VR/XR)
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch18-virtual-reality
 
 Chapter 19 - Advanced topics - Gizmos, Testing and more 
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch17-advanced-gizmo-testing-python
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch19-advanced-gizmo-testing-python
 
