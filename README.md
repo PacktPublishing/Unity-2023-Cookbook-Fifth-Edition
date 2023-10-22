@@ -50,7 +50,7 @@ Chapter 16 - Mobile Games & Apps
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-mobile-games-apps
 
 Chapter 17 - Augmented Reality (AR)
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch15a-augmented-reality
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch17-augmented-reality
 
 Chapter 18 - Virtual Realty (VR)
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-virtual-reality
