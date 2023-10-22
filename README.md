@@ -20,7 +20,7 @@ Chapter 6 - Creating 3D Environments with Terrains
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch06-terrains
 
 Chapter 7 - Creating 3D Geometry with ProBuilder
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b-probuilder
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-probuilder
 
 Chappter 8 - 2D Animation and Physics
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
