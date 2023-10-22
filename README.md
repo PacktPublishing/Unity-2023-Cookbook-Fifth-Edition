@@ -35,7 +35,7 @@ Chapter 11 - Controlling and Choosing Positions
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-positions
 
 Chapter 12 - Nagivation Meshes and Agents
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-navigation
 
 Chapter 13 - Cameras and Lighting
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-cameras-and-lighting
