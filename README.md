@@ -29,7 +29,7 @@ Chapter 9 - Animated Characters
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-animated-characters
 
 Chapter 10 - Saving and Loading data
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-save-load-data
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch10-save-load-data
 
 Chapter 11 - Controlling and Choosing Positions
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch10-positions
