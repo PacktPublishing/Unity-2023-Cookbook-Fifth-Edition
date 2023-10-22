@@ -47,7 +47,7 @@ Chapter 15 - Particle Systems
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch15-particle-systems
 
 Chapter 16 - Mobile Games & Apps
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch15-mobile-games-apps
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch16-mobile-games-apps
 
 Chapter 17 - Augmented Reality (AR)
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch15a-augmented-reality
