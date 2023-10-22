@@ -23,7 +23,7 @@ Chapter 7 - Creating 3D Geometry with ProBuilder
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-probuilder
 
 Chappter 8 - 2D Animation and Physics
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch07-2d-anim-physics
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-2d-anim-physics
 
 Chapter 9 - Animated Characters
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch08-animated-characters
