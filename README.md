@@ -41,7 +41,7 @@ Chapter 13 - Cameras and Lighting
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch13-cameras-and-lighting
 
 Chapter 14 - Shader Graphs and Video Players
-- (coming soon)
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-shader-graphs-video
 
 Chapter 15 - Particle Systems and Other Visual Effects
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-particle-systems
