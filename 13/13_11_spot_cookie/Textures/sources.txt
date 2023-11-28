@@ -1,0 +1,6 @@
+spotCookie.tif/psd
+create by Matt Smith
+Creative Commons licence - Share Alike - https://creativecommons.org/licenses/by-sa/4.0/
+
+Cookie.png - from Unity 2018 cookie manual pagefs
+https://docs.unity3d.com/2018.1/Documentation/Manual/Cookies.html
