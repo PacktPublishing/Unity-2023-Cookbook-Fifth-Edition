@@ -28,10 +28,6 @@ So, whether you're aiming to develop the next hit game, enhance your portfolio, 
 - Build your own shaders using Unity's Shader Graph tool
 
 
-## New Edition v/s Previous Edition:  
-
-
-
 ## What's New 
 This new and fully-refreshed edition comes with four brand-new chapters that bring enhanced depth to its coverage of 3D game development, working with VR, and handling animation. Recipes from the previous edition have been updated and new recipes have been introduced to cover many of the latest Unity features. New content has been added that explores ProBuilder, mobile game development, and advanced visual effects, amongst other topics.
 
