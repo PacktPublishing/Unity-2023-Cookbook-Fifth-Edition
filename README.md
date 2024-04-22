@@ -71,8 +71,7 @@ So, whether you're aiming to develop the next hit game, enhance your portfolio, 
 
 </details>
 
-<h2>Get a chance to read 1 chapter for free using the below link</a></h2>
-<a href="[#](https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026)">Free Chapter</a>
+
 <details open> 
   <summary><h2>Requirements for this book</summary>
 
