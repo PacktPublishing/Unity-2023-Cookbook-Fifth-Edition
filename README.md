@@ -149,7 +149,10 @@ _Sinéad Murphy_ is currently Data Analytics Manager for the Irish NGO Trócaire
 </details>
 <details> 
   <summary><h2>Other Related Books</h2></summary>
-- [Unreal Engine 5 Game Development with C++ Scripting](https://www.packtpub.com/product/unreal-engine-5-game-development-with-c-scripting/9781804613931)
-- [Godot 4 Game Development Projects - Second Edition](https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404)
-- [Multiplayer Game Development with Unreal Engine 5](https://www.packtpub.com/product/multiplayer-game-development-with-unreal-engine-5/9781803232874)
+<ul>
+  <li><a href="https://www.packtpub.com/product/unreal-engine-5-game-development-with-c-scripting/9781804613931">Unreal Engine 5 Game Development with C++ Scripting</a></li>
+  <li><a href="https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404">Godot 4 Game Development Projects - Second Edition</a></li>
+  <li><a href="https://www.packtpub.com/product/multiplayer-game-development-with-unreal-engine-5/9781803232874">Multiplayer Game Development with Unreal Engine 5</a></li>
+</ul>
+
 </details>
