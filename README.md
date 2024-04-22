@@ -88,8 +88,7 @@ For recipes in some chapters, additional hardware/software will be helpful:
 - Chapter 4, Playing and Manipulating Sounds
 
     To edit and create audio files yourself, you can download and install the free Audacity application
-    for your computer system (Windows/Mac/Linux). You can find it at https://www.
-    audacityteam.org/download/.
+    for your computer system (Windows/Mac/Linux). You can find it at https://www.audacityteam.org/download/.
 
 - Chapter 5, Textures, Materials, and 3D Objects
 
