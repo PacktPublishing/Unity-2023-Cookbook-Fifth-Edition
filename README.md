@@ -7,7 +7,7 @@ Unity Cookbook, Fifth Edition</h1>
 Over 160 recipes to craft your own masterpiece in Unity 2023
 </h2>
 <p align="center">
-The authors of this book are -Matt Smith, Shaun Ferns and Sinéad Murphy</p>
+The authors of this book are - Matt Smith, Shaun Ferns and Sinéad Murphy</p>
 
 <p align="center">
    <a href="https://packt.link/unitydev" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
