@@ -8,6 +8,7 @@ Over 160 recipes to craft your own masterpiece in Unity 2023
 </h2>
 <p align="center">
 The authors of this book are -Matt Smith, Shaun Ferns and Sinéad Murphy</p>
+
 <p align="center">
    <a href="https://packt.link/unitydev" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -70,6 +71,8 @@ So, whether you're aiming to develop the next hit game, enhance your portfolio, 
 
 </details>
 
+<h2>Get a chance to read 1 chapter for free using the below link</a></h2>
+<a href="[#](https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026)">Free Chapter</a>
 <details open> 
   <summary><h2>Requirements for this book</summary>
 
