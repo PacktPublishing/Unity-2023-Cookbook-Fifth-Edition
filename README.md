@@ -81,8 +81,7 @@ For all chapters, you will need Unity 2023.1 or later, plus one of the following
 - Mojave 10.14+ / Intel x64 with SSE2 instruction set support
 - Big Sur 11.0 / Apple Silicon M1 or later
 - Linux Ubuntu 20.04 or Ubuntu 18.04 / Gnome desktop running on X11 / GPU: OpenGL 3.2+ or Vulkan-capable Nvidia or AMD
-For each chapter, there is a folder in the book’s GitHub repository that contains the asset files you will need; you can find these at https://github.com/PacktPublishing/Unity-2023-Cookbook-Fifth-
-Edition.
+For each chapter, there is a folder in the book’s GitHub repository that contains the asset files you will need; you can find these at https://github.com/PacktPublishing/Unity-2023-Cookbook-Fifth-Edition.
 
 For recipes in some chapters, additional hardware/software will be helpful:
 - Chapter 4, Playing and Manipulating Sounds
@@ -123,8 +122,7 @@ For recipes in some chapters, additional hardware/software will be helpful:
         - A Mac computer with the free Xcode program editor installed.
    - Note: If you don’t have access to a Mac computer and Xcode, another way to
         develop for Apple iOS is to use Unity’s Cloud Build services. Learn more about
-        Cloud Build for iOS at https://docs.unity3d.com/2020.1/Documentation/
-        Manual/UnityCloudBuildiOS.html.
+        Cloud Build for iOS at https://docs.unity3d.com/2020.1/Documentation/Manual/UnityCloudBuildiOS.html.
 
 - Chapter 17, Augmented Reality (AR)
 
