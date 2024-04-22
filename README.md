@@ -104,8 +104,7 @@ For recipes in some chapters, additional hardware/software will be helpful:
     - If you do want to install a web server and database server application, a great choice is
     XAMPP. It is a free, cross-platform collection of everything you need to set up a database
     and web server on your local computer. The download page also contains FAQs and
-    installation instructions for Windows, Mac, and Linux: https://www.apachefriends.
-    org/download.html.
+    installation instructions for Windows, Mac, and Linux: https://www.apachefriends.org/download.html.
 
 - Chapter 15, Particle Systems and Other Visual Effects
 
@@ -117,8 +116,7 @@ For recipes in some chapters, additional hardware/software will be helpful:
     If developing for Android, you’ll need an Android mobile device.
     If developing for Apple iOS, you’ll need:
         - An Apple iOS mobile device.
-        - A free Apple ID, which you can create on an Apple device or at https://appleid.
-        apple.com/.
+        - A free Apple ID, which you can create on an Apple device or at https://appleid.apple.com/.
         - A Mac computer with the free Xcode program editor installed.
    - Note: If you don’t have access to a Mac computer and Xcode, another way to
         develop for Apple iOS is to use Unity’s Cloud Build services. Learn more about
