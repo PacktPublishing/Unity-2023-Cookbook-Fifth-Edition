@@ -32,12 +32,15 @@ So, whether you're aiming to develop the next hit game, enhance your portfolio, 
 </details>
 <details open> 
   <summary><h2>Key Learnings</summary>
-- Craft stylish user interfaces from power bars to radars, and implement button driven scene changes effortlessly
-- Enhance your games with AI controlled characters, harnessing Unity's navigation meshes, surfaces, and agents
-- Discover the power of Cinemachine in Unity for intelligent camera movements
-- Elevate your games with immersive audio, including background music and dynamic sound effects
-- Bring your games to life with captivating visual effects, from smoke and explosions to customizable particle systems
-- Build your own shaders using Unity's Shader Graph tool
+<ul>
+  <li>Craft stylish user interfaces from power bars to radars, and implement button-driven scene changes effortlessly</li>
+  <li>Enhance your games with AI-controlled characters, harnessing Unity's navigation meshes, surfaces, and agents</li>
+  <li>Discover the power of Cinemachine in Unity for intelligent camera movements</li>
+  <li>Elevate your games with immersive audio, including background music and dynamic sound effects</li>
+  <li>Bring your games to life with captivating visual effects, from smoke and explosions to customizable particle systems</li>
+  <li>Build your own shaders using Unity's Shader Graph tool</li>
+</ul>
+
   </details>
 
 <details open> 
