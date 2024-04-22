@@ -113,8 +113,8 @@ For recipes in some chapters, additional hardware/software will be helpful:
     can be found at www.gimp.org/.
 
 - Chapter 16, Mobile Games and Apps
-    If developing for Android, you’ll need an Android mobile device.
-    If developing for Apple iOS, you’ll need:
+   - If developing for Android, you’ll need an Android mobile device.
+   - If developing for Apple iOS, you’ll need:
         - An Apple iOS mobile device.
         - A free Apple ID, which you can create on an Apple device or at https://appleid.apple.com/.
         - A Mac computer with the free Xcode program editor installed.
